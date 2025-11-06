@@ -1,5 +1,5 @@
 CHAMPS
-how_many_people = 3
+Eliott
 
 print("# the teamwork TP\n")
 
